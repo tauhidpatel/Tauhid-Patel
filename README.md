@@ -11,7 +11,5 @@
 - Apart from these, I enjoy playing football. I have a Youtube channel where I showcase my football skills and provide content to learn them as well !
   ⚽️ tauhidfootball
 
-- 📫 How to reach me 
-  tauhidpatel18@gmail.com
-  
+- 📫 tauhidpatel18@gmail.com
 - Linkedin : https://www.linkedin.com/in/tauhidpatel/  
