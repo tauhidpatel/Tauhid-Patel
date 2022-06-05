@@ -4,8 +4,8 @@
 - I love to create user interfaces with expertise in Figma to provide a pleasant user experience.
 - ⌨️ Programming languages :
   Javscript (Proficient),
-  C++(intermediate), 
-  Python (fluent)
+  Java (intermediate), 
+  C++ | Python (fluent)
 
 - 🖥 Applications Skilled at :
   Figma, Photoshop, Premiere Pro, After Effects.
