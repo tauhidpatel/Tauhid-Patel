@@ -4,4 +4,3 @@ Currently pursuing my Master's in Computer Applications with proficiency in desi
   ⚽️ tauhidfootball
 
 - Email : tauhidpatel18@gmail.com
-- Linkedin : https://www.linkedin.com/in/tauhidpatel/  
